@@ -68,7 +68,7 @@ Ou utilize a extensão **Live Server** no VS Code.
 
 ---
 ## Preview
-![Preview do Projeto](https://github.com/elivaldobraga23/Postagem-de-Blog/blob/main/captura-tela-projeto-post.png)
+![Preview do Projeto](https://github.com/elisvaldobraga23/Postagem-de-Blog/blob/main/captura-tela-projeto-post.png)
 ---
 
 ## 📸 Demonstração
@@ -76,7 +76,7 @@ Ou utilize a extensão **Live Server** no VS Code.
 Você pode visualizar o projeto aqui:
 
 🌐 **Deploy:**
-https://github.com/elivaldobraga23/Postagem-de-Blog/blob/main/captura-tela-projeto-post.png
+https://github.com/elisvaldobraga23/Postagem-de-Blog/blob/main/captura-tela-projeto-post.png
 
 
 ---
